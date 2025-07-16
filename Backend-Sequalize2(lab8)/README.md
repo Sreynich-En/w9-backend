@@ -28,11 +28,8 @@ A comprehensive RESTful API built with **Express.js**, **Sequelize ORM**, and **
 - MySQL 8.0+
 - npm or yarn
 
-### 1. Clone & Install
+### 1. Install
 
-```bash
-git clone https://github.com/Sreynich-En/w9-backend.git
-cd w9-backend/Backend-Sequalize2\(lab8\)
 npm install
 ```
 
